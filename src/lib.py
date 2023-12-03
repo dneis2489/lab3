@@ -1,6 +1,6 @@
 import copy
 
-##Фибоначи n
+##Фибоначи
 def fibonacci(n):
     fib1 = fib2 = 1
     a = []
